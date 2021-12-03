@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TredexOwl
+- 👀 I’m interested in Gaming, Airsoft and Programming
+- 🌱 I’m currently learning to be an IT specialist in application development
+- My main programming language is ABAP
